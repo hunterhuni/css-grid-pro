@@ -10,6 +10,8 @@
 - FontAwesome
 - Google Fonts
 - npm packages for build optimization:
-    - Autoprefixer
-    - CSSO
-    - PostCSS
+  - Autoprefixer
+  - CSSO
+  - PostCSS
+
+View a live preview here: [Photo Editor page](https://hunterhuni.github.io/css-grid-pro/)
