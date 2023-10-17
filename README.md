@@ -14,4 +14,4 @@
   - CSSO
   - PostCSS
 
-View a live preview here: [Photo Editor page](https://hunterhuni.github.io/css-grid-pro/)
+View a live preview here: [BetterPhotos page](https://hunterhuni.github.io/css-grid-pro/)
